@@ -1,0 +1,9 @@
+{		
+	"ene_deathvox_cop_smg" : "경찰",
+	"ene_deathvox_cop_shotgun" : "경찰",	
+	"ene_deathvox_cop_revolver" : "경찰",
+	"ene_deathvox_cop_pistol" : "경찰",	
+	"ene_deathvox_fbi_hrt" : "PFM HRT",
+	"ene_deathvox_fbi_rookie" : "PFM 신입",	
+	"ene_deathvox_fbi_veteran" : "PFM 베테랑"
+}

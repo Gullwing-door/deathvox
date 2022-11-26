@@ -1,0 +1,16 @@
+{	
+	"ene_deathvox_tazer" : "연방 경찰 테이저",
+	"ene_deathvox_shield" : "연방 경찰 실드",
+	"ene_deathvox_sniper" : "연방 경찰 저격수",
+	"ene_deathvox_greendozer" : "연방 경찰 그린 도저",
+	"ene_deathvox_lmgdozer" : "연방 경찰 스컬 도저",
+	"ene_deathvox_blackdozer" : "연방 경찰 블랙 도저 ",
+	"ene_deathvox_cloaker" : "연방 경찰 클로커",
+	"ene_deathvox_swat" : "연방 경찰",	
+	"ene_deathvox_swatshot" : "연방 경찰 산탄총수",	
+	"ene_deathvox_medic" : "연방 경찰 메딕",
+	"ene_deathvox_fbi_heavyswatshot" : "연방 경찰 중장갑 산탄총수 엘리트",
+	"ene_deathvox_fbi_heavyswat" : "연방 경찰 중장갑 엘리트",	
+	"ene_deathvox_heavyswatshot" : "연방 경찰 중장갑 산탄총수",
+	"ene_deathvox_heavyswat" : "연방 경찰 중장갑"	
+}

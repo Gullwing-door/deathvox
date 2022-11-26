@@ -1,0 +1,16 @@
+{	
+	"ene_deathvox_taser" : "머키워터 테이저",
+	"ene_deathvox_shield" : "머키워터 실드",
+	"ene_deathvox_sniper" : "머키워터 스나이퍼",
+	"ene_deathvox_greendozer" : "머키워터 그린 도저",
+	"ene_deathvox_lmgdozer" : "머키워터 스컬 도저",
+	"ene_deathvox_blackdozer" : "머키워터 블랙 도저",
+	"ene_deathvox_cloaker" : "머키워터 클로커",
+	"ene_deathvox_swat" : "머키워터 해병",	
+	"ene_deathvox_swatshot" : "머키워터 해병 산탄총수",	
+	"ene_deathvox_medic" : "머키워터 메딕",
+	"ene_deathvox_fbi_heavyswatshot" : "머키워터 중장갑 해병 산탄총수",
+	"ene_deathvox_fbi_heavyswat" : "머키워터 중장갑 해병",	
+	"ene_deathvox_heavyswatshot" : "머키워터 중장갑 경비 산탄총수",
+	"ene_deathvox_heavyswat" : "머키워터 중장갑 경비"	
+}

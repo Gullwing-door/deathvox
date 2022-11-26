@@ -1,0 +1,9 @@
+{		
+	"ene_deathvox_cop_smg" : "머키워터 경비",
+	"ene_deathvox_cop_shotgun" : "머키워터 경비",	
+	"ene_deathvox_cop_revolver" : "머키워터 경비",
+	"ene_deathvox_cop_pistol" : "머키워터 경비",	
+	"ene_deathvox_fbi_hrt" : "머키워터 SRT",
+	"ene_deathvox_fbi_rookie" : "머키워터 신병",	
+	"ene_deathvox_fbi_veteran" : "머키워터 베테랑"
+}
